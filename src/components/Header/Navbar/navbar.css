@@ -1,0 +1,32 @@
+
+.Navbar{
+    
+    border : 1px black solid ;
+    text-align: center;
+    display: flex; 
+
+    
+}
+.Navbar-Item{
+      
+    border : 2px blueviolet solid ;
+    display: flex; 
+    justify-content:center;
+    background-image: url("https://www.google.com/search?source=univ&tbm=isch&q=imagenes+de+artesanias&client=firefox-b-d&fir=G2le09bchEUWIM%252CgocRECsuPtWHbM%252C_%253Bo9OBVOyuViiZAM%252CpBS8fDPVK90BYM%252C_%253BGzklZ_Up0QIbdM%252Ctw1Oo1yoO5CflM%252C_%253BnpJdEQ84KPHlSM%252C-l7A2P09J4LhOM%252C_%253BT5qSynIcyFRmGM%252Cm0d0QvW9TM9XdM%252C_%253BbXMmNhmILhh91M%252CQizz4K573x_BqM%252C_%253BZBx3P3W9wyqktM%252CXqKrBMFml-aiJM%252C_%253BQ0zroBn4IfGR5M%252CwOF6dfa_lEfZbM%252C_%253Bmx9OhOZEQolwVM%252Cd1ms9ZGRAd5K4M%252C_%253B5wMU7k--o6Ye9M%252CkcpLx8vrjKOcRM%252C_%253BXkvnmLVgfcJwcM%252CAJtDoYfhxxMCyM%252C_%253BMTCASyTCRTDRiM%252CUhBexWEicYIddM%252C_&usg=AI4_-kT8b2eJY2sSQGAcWffaco63FfdKXA&sa=X&ved=2ahUKEwjRxKXosfP2AhUXRjABHQ5fAU8Q7Al6BAgCEFw&biw=842&bih=901&dpr=1#imgrc=T5qSynIcyFRmGM");
+    
+    background-size: cover;
+  
+}
+.Item1{
+    border : 1px black solid ;
+    display: flex; 
+    
+}
+.Item2{
+    border : 1px black solid ;
+    display: flex; 
+}
+.Item3{
+    border : 1px black solid ; 
+    display: flex; 
+}
